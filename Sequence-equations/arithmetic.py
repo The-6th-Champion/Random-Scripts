@@ -1,3 +1,5 @@
+print("Smaller index first if possible")
+
 num1 = int(input("firstnum >> "))
 ind1 = int(input("firstind >> "))
 num2 = int(input("secondnum >> "))
