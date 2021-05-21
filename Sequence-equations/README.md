@@ -16,3 +16,7 @@ same for second
 2. [geometric.py](https://github.com/The-6th-Champion/Random-Scripts/blob/master/Sequence-equations/geometric.py) - generate a geometric equation from 2 terms
 
 3. [explicit_sub.py](https://github.com/The-6th-Champion/Random-Scripts/blob/master/Sequence-equations/explicit_sub.py) - get the value of a term given its index, or get the index given its value (arithmetic and geometric)
+
+<hr/>
+
+### Made by [The6thChampion](https://github.com/The-6th-Champion)
