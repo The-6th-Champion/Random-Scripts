@@ -1,9 +1,9 @@
 print("Smaller index first if possible")
 
-num1 = int(input("firstnum >> "))
-ind1 = int(input("firstind >> "))
-num2 = int(input("secondnum >> "))
-ind2 = int(input("secondind >> "))
+num1 = float(input("firstnum >> "))
+ind1 = float(input("firstind >> "))
+num2 = float(input("secondnum >> "))
+ind2 = float(input("secondind >> "))
 
 def arth_eq_calc(num1, ind1, num2, ind2):
     d = (num2-num1)/(ind2-ind1)

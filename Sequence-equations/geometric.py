@@ -1,8 +1,8 @@
 import math
 print("Smaller index first if possible")
-num1 = int(input("firstnum >> "))
+num1 = float(input("firstnum >> "))
 ind1 = int(input("firstind >> "))
-num2 = int(input("secondnum >> "))
+num2 = float(input("secondnum >> "))
 ind2 = int(input("secondind >> "))
 
 def geo_qu_calc(num1, ind1, num2, ind2):
